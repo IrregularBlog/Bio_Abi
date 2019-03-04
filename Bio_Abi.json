@@ -1,0 +1,3266 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7d3afb62-3e7e-11e9-bf0a-d897ba8057aa",
+            "deck_config_uuid": "669a65d5-3e7c-11e9-b402-d897ba8057aa",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-4-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-3-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-11-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-8-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-2-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-6-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-9-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-13-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-2-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-11-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-9-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-15-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-5-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-6-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-11-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-3-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-2-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-11-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-9-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-4-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-13-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-15-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-1-A.svg",
+                "XVydIUz1zTLGoBfXaMulFiAVGz3GHFXCb41978F_4vsQUlNlVlVHPYrfZ-_jjb1Y8Ax0Gdgn2S5jgWGwf2vKCz932VpmuGTfDvmADzDuT7-NsWz_DJk7FoYHSFM9ECehKN-o.jpg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-16-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-3-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-12-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-1-Q.svg",
+                "paste-cd561872054e00089b006c87b9cf9b136386bab3.png",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-O.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-7-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-11-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-8-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-1-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-10-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-8-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-3-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-13-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-16-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-15-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-4-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-14-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-7-Q.svg",
+                "tmp5f_2y8nz.png",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-17-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-6-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-5-A.svg",
+                "xD_kj-nm_Q6KfpPuT09EKiNwaapSGF_BXNxXriEMCV6e6uFvr6KInOXcoyKBu6yTLYVHSQ_3Iltgxlu8-BlcdrfnkP4aYTRagoBZRt0W2__amBuWemvBnImCiaojOuKqkT1i.jpg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-2-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-12-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-17-A.svg",
+                "xV3ldggmj8pazTg6hn3wuYJC6MBLb63AMZfv3Y4psFiXVIpWCBhNIxb2_T2L28w2lQU-gKgSEvPluewKo2XH6R12RWVGIuJbx1zuHxejCdOHzUpjSeqoTtOSZiLaTOC9dCet.jpg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-17-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-9-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-9-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-10-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-4-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-12-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-3-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-14-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-5-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-18-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-18-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-6-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-4-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-8-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-8-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-6-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-5-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-16-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-6-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-7-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-1-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-4-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-17-A.svg",
+                "by8Y2kVg8WQxzvgZrzI9KtsVRDeMxvHnwfmk7VlUVnIBO86W3ei5zeP4jfKJwzWo0_AritKyu8F5-O82DCxoMHb6Z9isQdmMp2U5R4sJ-Ck_PK0AmXxFbzRIpUjTdS7wXUVH.jpg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-2-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-1-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-5-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-2-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-16-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-7-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-14-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-15-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-1-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-10-Q.svg",
+                "tmpckcn2dhv.png",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-7-A.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-12-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-14-A.svg",
+                "220px-TCA_cycle.svg.png",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-10-Q.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-9-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-10-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-11-Q.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-10-A.svg",
+                "tmpvrratc0i.png",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-7-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-3-Q.svg",
+                "cbd83c0108ba423c9aaaec4eecdec660-ao-5-A.svg",
+                "b80256afae0e49b88afbd036e0db7d8c-oa-8-A.svg",
+                "24f380cf5ee74557a1984f7f95dd4ae7-ao-13-A.svg"
+            ],
+            "name": "Zellbiologie",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Atmungskette",
+                        "<img src=\"xD_kj-nm_Q6KfpPuT09EKiNwaapSGF_BXNxXriEMCV6e6uFvr6KInOXcoyKBu6yTLYVHSQ_3Iltgxlu8-BlcdrfnkP4aYTRagoBZRt0W2__amBuWemvBnImCiaojOuKqkT1i.jpg\">",
+                        "Die Atmungskette ist Teil der Energiegewinnung der meisten Lebewesen, sie findet <b>nach dem Citratzyklus</b> statt"
+                    ],
+                    "flags": 0,
+                    "guid": "o@R}/zHpH)",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Zellatmung",
+                        "<img src=\"XVydIUz1zTLGoBfXaMulFiAVGz3GHFXCb41978F_4vsQUlNlVlVHPYrfZ-_jjb1Y8Ax0Gdgn2S5jgWGwf2vKCz932VpmuGTfDvmADzDuT7-NsWz_DJk7FoYHSFM9ECehKN-o.jpg\">",
+                        "Die Zellatmung dient der <b>ATP-Gewinnung</b>. Vorrangig wird ATP durch Verstoffwechselung von Glucose gewonnen."
+                    ],
+                    "flags": 0,
+                    "guid": "h}Y/jtcR_x",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Photosynthese und Calvinzyklus",
+                        "<img src=\"by8Y2kVg8WQxzvgZrzI9KtsVRDeMxvHnwfmk7VlUVnIBO86W3ei5zeP4jfKJwzWo0_AritKyu8F5-O82DCxoMHb6Z9isQdmMp2U5R4sJ-Ck_PK0AmXxFbzRIpUjTdS7wXUVH.jpg\"><img src=\"xV3ldggmj8pazTg6hn3wuYJC6MBLb63AMZfv3Y4psFiXVIpWCBhNIxb2_T2L28w2lQU-gKgSEvPluewKo2XH6R12RWVGIuJbx1zuHxejCdOHzUpjSeqoTtOSZiLaTOC9dCet.jpg\">",
+                        "Auf diese Weise entsteht <b>Glucose</b> (welche später wieder verwendet werden kann, um ATP zu gewinnen)"
+                    ],
+                    "flags": 0,
+                    "guid": "h@;F@)7<kI",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Citratzyklus",
+                        "<img src=\"220px-TCA_cycle.svg.png\">",
+                        "Der 2. ATP bringende Schritt der Zellatmung"
+                    ],
+                    "flags": 0,
+                    "guid": "mOV=3zi<o&",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "ATP",
+                        "<img src=\"paste-cd561872054e00089b006c87b9cf9b136386bab3.png\">",
+                        "Adenosintriphosphat, zeichnet sich durch drei Phosphatgruppen aus. Mit der Abspaltung der Phosphatgruppen, wird Energie frei, die z.B. bei ATP-abhängigen Pumpen wie der Natrium-Kalium-Pumpe gebraucht wird.<div><br></div><div>Neben ATP gibt es analog auch ADP und AMP.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "eVx{JRLzoS",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-1",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-1-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "DImNXK>UM7",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-2",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-2-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "PUJ@1d!W9n",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-3",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-3-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L|Ps@7hZP{",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-4",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-4-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "E_|^hunBS{",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-5",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-5-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "H3aE|oA%h6",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-6",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-6-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QRlXpxc+e]",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-7",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-7-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "e)vhva5VZ/",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-8",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-8-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mdUTS{c.8E",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-9",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-9-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w_X|!d/zlu",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-10",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-10-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "j(fHQgsjhZ",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-11",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-11-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Rd=`7@-~OZ",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-12",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-12-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "F`=_@G<~Dm",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-13",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-13-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-13-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "i*lM`Sv|ds",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-14",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-14-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-14-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "d(#IDE?:+|",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-15",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-15-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-15-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "qMPNNm${-i",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-16",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-16-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-16-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ksNO9<Y-8A",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "cbd83c0108ba423c9aaaec4eecdec660-ao-17",
+                        "",
+                        "<img src=\"tmpckcn2dhv.png\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-17-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-17-A.svg\" />",
+                        "<img src=\"cbd83c0108ba423c9aaaec4eecdec660-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "KtFN)nMy%(",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-1",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-1-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "BBC^EN8CEk",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-2",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-2-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "J10A^514y9",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-3",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-3-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "k*&6-ZzU/",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-4",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-4-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "eW%`k1K~bF",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-5",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-5-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "vJc(-7.Mb%",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-6",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-6-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "EY!y[,o1^7",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-7",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-7-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "gF(vQ&f|q`",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-8",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-8-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h1LOP0Ars@",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-9",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-9-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "DH;zAg?TN,",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-10",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-10-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "H+0sl0A%x_",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-11",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-11-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "p6RT!%w]p;",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-12",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-12-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Qpi3~s|bO]",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-13",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-13-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-13-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zqIyC7/GvL",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-14",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-14-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-14-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "E1c~{>8Bo8",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-15",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-15-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-15-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "A$/L(K7k&&",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-16",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-16-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-16-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rodK}b~/]d",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-17",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-17-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-17-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t/$N.S@qk2",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "24f380cf5ee74557a1984f7f95dd4ae7-ao-18",
+                        "",
+                        "<img src=\"tmpvrratc0i.png\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-18-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-18-A.svg\" />",
+                        "<img src=\"24f380cf5ee74557a1984f7f95dd4ae7-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z<7}ib)ixu",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-1",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-1-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ngSd0_7x]8",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-2",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-2-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "c*.e(}^RZ*",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-3",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-3-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "LH_<H$Sk?~",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-4",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-4-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "G$pcxOIJ#`",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-5",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-5-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q47*wgD[>&",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-6",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-6-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "n(>V7hHkvy",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-7",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-7-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oPM`.*POOJ",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-8",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-8-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "kcqpf9!>tW",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-9",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-9-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "DF]vo+xpl`",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-10",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-10-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oa6`yzD{]%",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "b80256afae0e49b88afbd036e0db7d8c-oa-11",
+                        "",
+                        "<img src=\"tmp5f_2y8nz.png\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-11-A.svg\" />",
+                        "<img src=\"b80256afae0e49b88afbd036e0db7d8c-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "J7T:qf1SWe",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7d3afbff-3e7e-11e9-8c6c-d897ba8057aa",
+            "deck_config_uuid": "669a65d5-3e7c-11e9-b402-d897ba8057aa",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-e7bcc93269d5c288a9db7e67d071261071101ddf.jpg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-3-A.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-8-Q.svg",
+                "ytghtg5r5etfg4f4.jpg",
+                "f8f5718_w.jpg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-1-A.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-4-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-4-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-9-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-4-A.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-12-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-8-A.svg",
+                "117e0c880a8b43fba828c07bcdcc45fc-ao-O.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-8-Q.svg",
+                "420px-Ökosphäre_und_System_Erde.png",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-10-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-1-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-8-A.svg",
+                "117e0c880a8b43fba828c07bcdcc45fc-ao-2-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-4-A.svg",
+                "02_1.jpg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-2-Q.svg",
+                "images (1).jpg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-9-Q.svg",
+                "tmpit241kxj.png",
+                "paste-c977f70cf60a96ad906cb599922d32481f17c5e5.jpg",
+                "paste-def2baa3819b1a951b4aef17a7f9c39f329e258d.jpg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-7-Q.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-5-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-1-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-6-A.svg",
+                "440px-Process_of_Denaturation.svg.png",
+                "117e0c880a8b43fba828c07bcdcc45fc-ao-1-Q.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-7-Q.svg",
+                "tmp2mvow1b5.png",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-12-A.svg",
+                "tmpkxfgv7ih.png",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-5-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-10-A.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-4-Q.svg",
+                "220px-Ennert_Holzlar.jpg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-4-Q.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-O.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-9-A.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-6-Q.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-5-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-9-Q.svg",
+                "world-map-biomes-.png",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-10-A.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-6-Q.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-8-A.svg",
+                "117e0c880a8b43fba828c07bcdcc45fc-ao-2-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-7-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-1-Q.svg",
+                "45303142-animals-forest-habitat.jpg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-7-A.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-2-A.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-1-Q.svg",
+                "Vergleich+Wechsel-+und+Gleichwarm.jpg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-3-A.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-3-Q.svg",
+                "oekosystem-erde-klein.gif",
+                "images (2).jpg",
+                "zonierung_wasser_800x412.jpg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-2-Q.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-5-A.svg",
+                "preview_pinguine.jpg",
+                "paste-5e15332f31004d0537cfd34acd23a526920d68c3.jpg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-3-Q.svg",
+                "117e0c880a8b43fba828c07bcdcc45fc-ao-1-A.svg",
+                "wisconsin-77929_640-300x225.jpg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-1-A.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-6-A.svg",
+                "300px-Lomna_239.jpg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-2-A.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-10-Q.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-2-Q.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-8-Q.svg",
+                "940d0555124248d0b0c99b7fc8ee76b5-ao-7-Q.svg",
+                "tmpmdaxhl66.png",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-11-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-6-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-3-A.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-5-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-7-A.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-11-Q.svg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-6-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-3-Q.svg",
+                "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-5-Q.svg",
+                "preview_hasen.jpg",
+                "e3b2c51f8a2643c492065866d6b851fd-oa-2-A.svg"
+            ],
+            "mid": "1551616389455",
+            "name": " Ökologie",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::1: Atmosphäre}}<div>{{c2::2: Pedosphäre}}</div><div>{{c3::3: Litosphäre}}</div>",
+                        "1: <b>Lufthülle</b> d. Erde<br>2: von Lebewesen <b>besiedelter Bereich</b> d. Erde<div>3: <b>Gesteinsschichten</b> unter 1&amp;2</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Fik-M~_=Y=",
+                    "note_model_uuid": "7d3afc03-3e7e-11e9-92ac-d897ba8057aa",
+                    "tags": [
+                        "Sphären"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "1: Hydroshäre<br>2: Biosphäre (=Ökosphäre)",
+                        "<img src=\"420px-Ökosphäre_und_System_Erde.png\"><br>",
+                        "1: 70% d. Erde, die mit <b>Wasser</b> bedeckt sind \n<div>2: <b>Gesamtheit</b> aller Lebewesen/Organismen und von ihnen bewohnte Bereiche</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "f&{8WYu>oQ",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Biome",
+                        "<img src=\"world-map-biomes-.png\">",
+                        "<b>Zonen der Biosphäre</b> mit verschiedenen Organismen &amp; Ökosystemen, unterschiedlich bei Höhe, Temperatur und Klima"
+                    ],
+                    "flags": 0,
+                    "guid": "Qqwxg&<e=!",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Ökosystem",
+                        "<img src=\"oekosystem-erde-klein.gif\">",
+                        "Zusammenspiel in einem Biom zwischen <b>biotischen und abiotischen Faktoren</b>, das Leben ermöglicht, hat versch. Ebenen<br><br>(Biotop + Biozönose)"
+                    ],
+                    "flags": 0,
+                    "guid": "heUT<MTkGg",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "1: abiotischer Faktor<br>2: biotischer Faktor",
+                        "<img src=\"02_1.jpg\">",
+                        "1: <b>nicht biologischer </b>Faktor (z.B. Klima)<div>2: <b>biologischer</b> Faktor (z.B. Artgenossen)</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M<Y+x&U0[8",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "1: Autoökologie<br>2: Populationsökologie/Demologie",
+                        "",
+                        "1: untersucht Wechselwirkung zwischen <b>Umweltfaktor</b> und <b>Einzelorganismus</b><br>2: untersucht die <b>Entwicklung von Populationen </b>anhand der Umweltfaktoren"
+                    ],
+                    "flags": 0,
+                    "guid": "pQMyB8^b`S",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-1",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-1-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "CDnb`ylEqW",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-2",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-2-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ni%(>#v;P`",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-3",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-3-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "jJ,urrb,8Y",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-4",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-4-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rx-jL{$0[z",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-5",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-5-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N-6nKA9N$]",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-6",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-6-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "K{=Tmv=61V",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-7",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-7-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "f%U_QoVFvJ",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-8",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-8-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "g!~.R]bo3n",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-9",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-9-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QyA$qh<BI:",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-10",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-10-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "E!Cb3#m8n-",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-11",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-11-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "p}6AB@;|2}",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-12",
+                        "",
+                        "<img src=\"tmp2mvow1b5.png\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-12-A.svg\" />",
+                        "<img src=\"a986a6f955d44c7dbbd05d6a9ad4c7fe-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "r9HssPgCy}",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Habitat",
+                        "<img src=\"45303142-animals-forest-habitat.jpg\">",
+                        "Artspezifischer <b>Lebensraum</b>"
+                    ],
+                    "flags": 0,
+                    "guid": "v;D9WDvr6x",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "RGT-Regel",
+                        "<img src=\"f8f5718_w.jpg\">",
+                        "Bei einer Temperaturerhöhung von <b>10°C ver 2-3facht</b> sich die <b>Reaktionsgeschwindigkeit</b>"
+                    ],
+                    "flags": 0,
+                    "guid": "B-/Pe7svV-",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "1: Poikilotherm<div>2: Homoiotherm</div>",
+                        "<img src=\"Vergleich+Wechsel-+und+Gleichwarm.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "EkT,VQl#!G",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Ökologische Potenz",
+                        "",
+                        "Fähigkeit von Organismen Schwankungen abiotischer Faktoren zu ertragen."
+                    ],
+                    "flags": 0,
+                    "guid": "nQ~|s.6%z+",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-1",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-1-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "eER>64c?8E",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-2",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-2-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dnKG$zpAm1",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-3",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-3-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "O^4Q!!wurK",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-4",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-4-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oag@!!6]*0",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-5",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-5-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "l@M>7oF<tk",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-6",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-6-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "cn8qhzW;;2",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-7",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-7-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "BoSek^?X~D",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "940d0555124248d0b0c99b7fc8ee76b5-ao-8",
+                        "",
+                        "<img src=\"tmpit241kxj.png\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-8-A.svg\" />",
+                        "<img src=\"940d0555124248d0b0c99b7fc8ee76b5-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "s*p};OmarX",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Hitzedenaturierung",
+                        "<img src=\"440px-Process_of_Denaturation.svg.png\">",
+                        "Temperatur von 40°C&nbsp; --&gt; Verlust der Struktur und Eigenschaft"
+                    ],
+                    "flags": 0,
+                    "guid": "t)4)cwub6D",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "1: Stenopotenz / stenotherme<div>2: Eurypotenz / eurytherme</div>",
+                        "<img src=\"ytghtg5r5etfg4f4.jpg\">",
+                        "1: geringe Toleranz bzgl. eines Umweltfaktors<br>2: hohe Toleranzweite"
+                    ],
+                    "flags": 0,
+                    "guid": "y.09kxeV;T",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Vitalität",
+                        "",
+                        "Lebenfähigkeit"
+                    ],
+                    "flags": 0,
+                    "guid": "uX+&-36!lb",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Allensche Regel",
+                        "<img src=\"preview_hasen.jpg\">",
+                        "Gleichwarme Tiere in <i>kalten</i> Klimaten --&gt; <b>kleinere Körperfortsätze</b><br>als Verwandte Arten in <i>wärmeren</i> Klimaten"
+                    ],
+                    "flags": 0,
+                    "guid": "FFutUN>D[;",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Bergmannsche Regel",
+                        "<img src=\"preview_pinguine.jpg\">",
+                        "Gleichwarme nah verwandte Tiere in <b>kälteren Klimaten größer</b>"
+                    ],
+                    "flags": 0,
+                    "guid": "KHAeM<x[_n",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-1",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-1-Q.svg\">",
+                        "",
+                        "",
+                        "",
+                        "Alles oberhalb des Benthal",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-1-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rW$kqD1q:W",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-2",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-2-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "iHbtM`Kf}+",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-3",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<b>Nährschicht/Epilimnion:</b> mehr Biomasse und O<sub>2</sub>&nbsp;Produktion als verbraucht",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-3-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "wExuim|s^q",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-4",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<b>Kompensationsebene/Metalimnion:</b> Photosynthese und Atmung halten sich die Waage",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-4-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mu|gZV/oj-",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-5",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<b>Zehrschicht, Hypolimnion:</b> Prozesse der Atmung und Gährung, höherer Abbau von <i>Biomasse &amp; 0<sub>2</sub></i>&nbsp;als Produktion",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-5-A.svg\">",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uM]Tx]HIIH",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-6",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-6-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "bP=eVO_(bc",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-7",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<b>(Erlen)Bruchwald: </b>muss stauende Nässe und O<sub>2</sub>&nbsp;armen Boden vertragen&nbsp;",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-7-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "i!i%<3*MCy",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-8",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<b>Seggen und Röhrichtzone:</b>&nbsp;hat Angepasstheiten die Wasserabgabe und Gasaustausch fördern",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-8-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "pLu1>I#Pnq",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-9",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<b>Schwimmblattpflanzenzone:</b> haben Luftgewebe zur Schwimmfähigkeit und zum Gasaustausch",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-9-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "viqd4z|IOD",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e3b2c51f8a2643c492065866d6b851fd-oa-10",
+                        "",
+                        "<img src=\"tmpmdaxhl66.png\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<b>Unterwasserpflanzenzone:</b> nehmen Wasser und Salze über gesamte Oberfläche auf, schwach ausgebildetes Festigungsgewebe.",
+                        "",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-10-A.svg\" />",
+                        "<img src=\"e3b2c51f8a2643c492065866d6b851fd-oa-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rs|NS3?B~F",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Benthal",
+                        "<img src=\"zonierung_wasser_800x412.jpg\">",
+                        "Gewässerboden<div><b>Litoral</b>: von <u>Licht</u> durchflutet</div><div><b>Profundal</b>: <u>dunkel</u></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "z<SUdqGCn;",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "1: See<div>2: Weiher</div><div>2.5: Teich</div><div>3: Tümpel</div>",
+                        "<img src=\"wisconsin-77929_640-300x225.jpg\"><img src=\"paste-c977f70cf60a96ad906cb599922d32481f17c5e5.jpg\"><img src=\"300px-Lomna_239.jpg\"><img src=\"220px-Ennert_Holzlar.jpg\">",
+                        "<div align=\"left\"><b>1:</b> &gt;2m tief, natürlich, am Boden nicht durchgängig bewachsen<div><b>2:</b> &lt;2m tief, natürlich, ganzjährig</div><div><b>2.5:</b> siehe 2, nur unnatürlich</div><div><b>3:</b> unregelmäßig Wasser, fehlen von permanent ans Wasser gebundenen Arten</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "rwoel&zwE*",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Plankton",
+                        "<img src=\"paste-5e15332f31004d0537cfd34acd23a526920d68c3.jpg\">",
+                        "Unter Neuston und Pleuston, schwebende Organismen ohne Eigenbewegung&nbsp;<br><br><b>Phytoplankton:</b> betreibt Photosynthese<div><b>Zooplankton:</b> frisst Phytoplankton</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "v@j/jM|GA;",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Neuston",
+                        "<img src=\"images (1).jpg\">",
+                        "-an der Oberflächenhaut des Wassers<div>-klein (z.B. Bakterien, Algen, Protozoen etc.)</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "J9?`r098Py",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Pleuston",
+                        "<img src=\"paste-e7bcc93269d5c288a9db7e67d071261071101ddf.jpg\">",
+                        "-an der Wasseroberfläche lebend<div>-größer als Neuston ( z.B. Wasserläufer, Schwimmfarn)</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "g3MU~x[g2$",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Nekton",
+                        "<img src=\"paste-def2baa3819b1a951b4aef17a7f9c39f329e258d.jpg\">",
+                        "<b>aktiv schwimmende</b> Lebewesen"
+                    ],
+                    "flags": 0,
+                    "guid": "N9}_Jmqxgz",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Detritus",
+                        "<img src=\"images (2).jpg\">",
+                        "-zersetzt und abgestorben<div>-meist in Zehrschicht</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "C5h.]^TiSw",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "117e0c880a8b43fba828c07bcdcc45fc-ao-1",
+                        "",
+                        "<img src=\"tmpkxfgv7ih.png\" />",
+                        "<img src=\"117e0c880a8b43fba828c07bcdcc45fc-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "Mehr Licht sorgt nun nicht mehr für mehr O<sub>2 </sub>Produktion",
+                        "",
+                        "<img src=\"117e0c880a8b43fba828c07bcdcc45fc-ao-1-A.svg\" />",
+                        "<img src=\"117e0c880a8b43fba828c07bcdcc45fc-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "qHm%<dq5|M",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "117e0c880a8b43fba828c07bcdcc45fc-ao-2",
+                        "",
+                        "<img src=\"tmpkxfgv7ih.png\" />",
+                        "<img src=\"117e0c880a8b43fba828c07bcdcc45fc-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "O<sub>2 </sub>Produktion und O<sub>2 </sub>Verbrauch durch Zellatmung halten sich bei dieser Lichtintensität die <b>Waage</b>.",
+                        "",
+                        "<img src=\"117e0c880a8b43fba828c07bcdcc45fc-ao-2-A.svg\" />",
+                        "<img src=\"117e0c880a8b43fba828c07bcdcc45fc-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "BN_F~G`YB5",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "669a65d4-3e7c-11e9-86f4-d897ba8057aa",
+            "deck_config_uuid": "669a65d5-3e7c-11e9-b402-d897ba8057aa",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "37a2381aaef04145830d9e859f6eb2aa-ao-8-A.svg",
+                "znsbild2.gif",
+                "e311d7c031864080ada90c27eb58b906-ao-3-Q.svg",
+                "paste-9387dd6289ea5c63dae043c3f611106674d5c2c2.jpg",
+                "2091_Cephalisation - Metazoa.png",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-3-Q.svg",
+                "paste-3eea96853cb411b0e6136c69a7c492a27cb48a28.jpg",
+                "e311d7c031864080ada90c27eb58b906-ao-1-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-5-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-12-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-O.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-7-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-5-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-11-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-12-A.svg",
+                "220px-Vesalius_Fabrica_p332.jpg",
+                "paste-e740a267817935a82fc2f42ef03bfe9afeac8fe8.jpg",
+                "e311d7c031864080ada90c27eb58b906-ao-4-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-11-Q.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-6-Q.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-1-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-3-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-8-Q.svg",
+                "paste-2d9e1317c528d1befe4a57330aeb7f961d9c235e.jpg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-2-Q.svg",
+                "paste-5b3a8e646b74006d3a405045326ae224f0d11995.jpg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-9-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-1-A.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-3-A.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-7-Q.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-6-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-10-Q.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-2-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-1-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-4-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-10-A.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-5-Q.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-7-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-2-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-4-A.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-2-Q.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-4-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-6-A.svg",
+                "440px-Insects_nervous_system-es.svg.png",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-9-Q.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-7-A.svg",
+                "tmpxcqt2wta.png",
+                "e311d7c031864080ada90c27eb58b906-ao-O.svg",
+                "e311d7c031864080ada90c27eb58b906-ao-5-A.svg",
+                "37a2381aaef04145830d9e859f6eb2aa-ao-6-Q.svg",
+                "tmpp1fisrv3.png",
+                "autonomicOrg.png"
+            ],
+            "name": "Neurologie",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e311d7c031864080ada90c27eb58b906-ao-1",
+                        "",
+                        "<img src=\"tmpxcqt2wta.png\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-1-A.svg\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Cl-nQ8H>=J",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e311d7c031864080ada90c27eb58b906-ao-2",
+                        "",
+                        "<img src=\"tmpxcqt2wta.png\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-2-A.svg\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "GBRAP/D&r+",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e311d7c031864080ada90c27eb58b906-ao-3",
+                        "",
+                        "<img src=\"tmpxcqt2wta.png\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-3-A.svg\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "xGkXQ[xoH[",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e311d7c031864080ada90c27eb58b906-ao-4",
+                        "",
+                        "<img src=\"tmpxcqt2wta.png\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-4-A.svg\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oPUuQ8>[kc",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e311d7c031864080ada90c27eb58b906-ao-5",
+                        "",
+                        "<img src=\"tmpxcqt2wta.png\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-5-A.svg\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "e*vnMv*T|V",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e311d7c031864080ada90c27eb58b906-ao-6",
+                        "",
+                        "<img src=\"tmpxcqt2wta.png\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-6-A.svg\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "heHFVQEsiY",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "e311d7c031864080ada90c27eb58b906-ao-7",
+                        "",
+                        "<img src=\"tmpxcqt2wta.png\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-7-A.svg\" />",
+                        "<img src=\"e311d7c031864080ada90c27eb58b906-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P4h!L~`^ii",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-1",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-1-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "za,xd4Abtr",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-2",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-2-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "y@K1c,s/HG",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-3",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-3-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "iRl*3v0cHv",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-4",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-4-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C#.MEy3Lrr",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-5",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-5-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Jzg/tg5L$4",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-6",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-6-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "tTl}]s0aA}",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-7",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-7-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "d5Bu~Es=SA",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-8",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-8-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mD~V<iAlu+",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-9",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-9-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ym>bJ%WCV8",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-10",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-10-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "NQE&P#CJ)(",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-11",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-11-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "BjLtb(t,=o",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "37a2381aaef04145830d9e859f6eb2aa-ao-12",
+                        "",
+                        "<img src=\"tmpp1fisrv3.png\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-12-A.svg\" />",
+                        "<img src=\"37a2381aaef04145830d9e859f6eb2aa-ao-O.svg\" />",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "m9~Eb9;~,K",
+                    "note_model_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Neuron",
+                        "<img src=\"paste-9387dd6289ea5c63dae043c3f611106674d5c2c2.jpg\">",
+                        "-spezialisierte Zelltyp<div>-kann <b>Informationen</b> in Form von <b>elektr. </b>Signalen <b>weiterleiten</b> und verarbeiten</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "zXH*H2,TzQ",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Nervennetz",
+                        "<img src=\"paste-5b3a8e646b74006d3a405045326ae224f0d11995.jpg\">",
+                        "Ermöglicht <b>einfache Verhaltensreaktionen </b>durch <b>Verknüpfung</b> von Neuronen und deren <b>Kommunikation</b>"
+                    ],
+                    "flags": 0,
+                    "guid": "BHl{T%f@v_",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Ganglion",
+                        "<img src=\"autonomicOrg.png\">",
+                        "ein aus Neuronen bestehender <b>Knoten</b>"
+                    ],
+                    "flags": 0,
+                    "guid": "t%TB@<w9n[",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Strickleiternervensystem",
+                        "<img src=\"440px-Insects_nervous_system-es.svg.png\">",
+                        "<b>zwei Nervenstränge</b> sind über <b>Ganglien</b> miteinander verknüpft"
+                    ],
+                    "flags": 0,
+                    "guid": "pO6J[dHNeW",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Cephalisation",
+                        "<img src=\"2091_Cephalisation - Metazoa.png\">",
+                        "evolutionärer Prozess --&gt; Kopf setzt sich von Körper ab"
+                    ],
+                    "flags": 0,
+                    "guid": "tt/eg1=sC`",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "zentrales Nervensystem, ZNS",
+                        "<img src=\"znsbild2.gif\">",
+                        "-In Gehirn und Rückenmark gegliedert<br><div>-Verarbeitung der wichtigen Informationen<br>-es finden wichtige Steuerungsprozesse statt&nbsp;</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "m02+CrtG;K",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Peripheres Nervensystem, PNS",
+                        "<img src=\"220px-Vesalius_Fabrica_p332.jpg\">",
+                        "alle <b>Neuronen</b>, die Informationen vom&nbsp;<b>Körpergewebe</b> zum ZNS (oder andersrum) leiten"
+                    ],
+                    "flags": 0,
+                    "guid": "BWS|z`~!-~",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "1: Afferente Neuronen<div>2: efferente Neuronen</div>",
+                        "<img src=\"paste-2d9e1317c528d1befe4a57330aeb7f961d9c235e.jpg\">",
+                        "1: leiten Informationen von Sinneszellen/organen zum ZNS<div>2: leiten Signale vom ZNS zu den Muskeln</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "bo~rO8{DTW",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "somatisches Nervensystem",
+                        "",
+                        "Versorgt alle Bereiche des Körpers, die dem <b>Willen oder der bewussten Wahrnehmung</b> unterworfen sind. (alle willkürlich gesteuerten Prozesse)"
+                    ],
+                    "flags": 0,
+                    "guid": "Hnh~/?W/;`",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "autonomes Nervensystem",
+                        "<img src=\"paste-e740a267817935a82fc2f42ef03bfe9afeac8fe8.jpg\">",
+                        "Auch <b>vegetatives Nervensystem</b> genannt. Ist für alle <b>nicht willentlich</b> beinflussbaren Prozesse verantwortlich (z.B. Verdauung)."
+                    ],
+                    "flags": 0,
+                    "guid": "l/V`u~VzmX",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Wirbeltiergehirn",
+                        "<img src=\"paste-3eea96853cb411b0e6136c69a7c492a27cb48a28.jpg\">",
+                        "-Besteht aus 5 Gehirnabschnitten<div>-Während der Embryonalentwicklung gebildet</div><div>-Großhirn, Zwischenhirn, Mittelhirn, Kleinhirn und Nachhirn</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P+H*m}-HSt",
+                    "note_model_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7d3d5ea1-3e7e-11e9-a904-d897ba8057aa",
+            "deck_config_uuid": "669a65d5-3e7c-11e9-b402-d897ba8057aa",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "mid": "1551616389455",
+            "name": "Genetik",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7d3d5ea5-3e7e-11e9-b2c8-d897ba8057aa",
+            "deck_config_uuid": "669a65d5-3e7c-11e9-b402-d897ba8057aa",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Ökologie",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "7d3afb5e-3e7e-11e9-8c92-d897ba8057aa",
+    "deck_config_uuid": "669a65d5-3e7c-11e9-b402-d897ba8057aa",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "669a65d5-3e7c-11e9-b402-d897ba8057aa",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 0,
+    "media_files": [],
+    "mid": "1551616389455",
+    "name": "Bio Abi",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "669a6611-3e7c-11e9-b5a5-d897ba8057aa",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Bild",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Explanation",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic + Bild",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Bild}} </br>\n{{Explanation}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "669a65d8-3e7c-11e9-865b-d897ba8057aa",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "answer",
+                    "ord": 11,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div style='font-family: Arial; font-size: 20px;'>{{answer}}</div>\n\n\n<div id=\"io-footer\">{{Footer}}</div></br>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n\n\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7d3afc03-3e7e-11e9-92ac-d897ba8057aa",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [
+                "Sphären"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}\n<hr>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}<br>\n\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
